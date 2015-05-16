@@ -1,0 +1,110 @@
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.exe.config
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.exe
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.pdb
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\MySql.Data.dll
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.CentroAyuda.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Login.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Principal.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Properties.Resources.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.csproj.GenerateResource.Cache
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.exe
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.pdb
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.IncidenteCentroAyuda.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.RegistoCentroAyuda.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporte.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministrador.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministradorEditar.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministradorNuevo.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleado.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoEditar.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoNuevo.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoVer.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporteEditar.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2012\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporteNuevo.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.exe.config
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.exe
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.pdb
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.csprojResolveAssemblyReference.cache
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.CentroAyuda.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.IncidenteCentroAyuda.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Login.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Principal.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Properties.Resources.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.RegistoCentroAyuda.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministrador.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministradorEditar.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministradorNuevo.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleado.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoEditar.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoNuevo.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoVer.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporte.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporteEditar.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporteNuevo.resources
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.csproj.GenerateResource.Cache
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.exe
+C:\Users\naye\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.pdb
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.exe.config
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.exe
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.pdb
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.exe
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.pdb
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.csprojResolveAssemblyReference.cache
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.CentroAyuda.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.IncidenteCentroAyuda.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Login.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Principal.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Properties.Resources.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.RegistoCentroAyuda.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministrador.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministradorEditar.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministradorNuevo.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleado.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoEditar.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoNuevo.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoVer.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporte.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporteEditar.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporteNuevo.resources
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.csproj.GenerateResource.Cache
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.exe.manifest
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.application
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.exe.manifest
+C:\Users\JOSE DE JESUS\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.application
+C:\Users\Administrador\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.exe.config
+C:\Users\Administrador\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.exe
+C:\Users\Administrador\Documents\INGENERIA DE SOFTWARE SAMIR\proyecto\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.pdb
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.exe.config
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.exe
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.pdb
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.CentroAyuda.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.IncidenteCentroAyuda.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Login.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Principal.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.Properties.Resources.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.RegistoCentroAyuda.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministrador.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministradorEditar.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaAdministradorNuevo.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleado.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoEditar.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoNuevo.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaEmpleadoVer.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporte.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporteEditar.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporteNuevo.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.csproj.GenerateResource.Cache
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.exe.manifest
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.application
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.exe
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\InventarioProduccion.pdb
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.exe.manifest
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.application
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.PrincipalUsuario.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporteEditarUsuario.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporteUsuario.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\obj\Debug\InventarioProduccion.VentanaReporteBuscarUsuario.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\itextsharp.dll
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\InventarioProduccion\InventarioProduccion\bin\Debug\itextsharp.pdfa.dll

@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B884065C-BD9A-4F52-B5E7-6FC537A2DDCE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InventarioProduccion</RootNamespace>
+    <AssemblyName>InventarioProduccion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>es-MX</TargetCulture>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4317F51993E8C0DD14C3CE200948CBDF317D5EAA</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>InventarioProduccion_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\..\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\..\..\..\..\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\Downloads\Proyecto_Final-master\Proyecto_Final-master\MySql y Excel DLL\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\Downloads\Proyecto_Final-master\Proyecto_Final-master\MySql y Excel DLL\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CentroAyuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CentroAyuda.Designer.cs">
+      <DependentUpon>CentroAyuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IncidenteCentroAyuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IncidenteCentroAyuda.Designer.cs">
+      <DependentUpon>IncidenteCentroAyuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrincipalUsuario.Designer.cs">
+      <DependentUpon>PrincipalUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistoCentroAyuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistoCentroAyuda.Designer.cs">
+      <DependentUpon>RegistoCentroAyuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaAdministrador.Designer.cs">
+      <DependentUpon>VentanaAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaAdministradorEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaAdministradorEditar.Designer.cs">
+      <DependentUpon>VentanaAdministradorEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaAdministradorNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaAdministradorNuevo.Designer.cs">
+      <DependentUpon>VentanaAdministradorNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaEmpleado.Designer.cs">
+      <DependentUpon>VentanaEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaEmpleadoEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaEmpleadoEditar.Designer.cs">
+      <DependentUpon>VentanaEmpleadoEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaEmpleadoEliminar.cs" />
+    <Compile Include="VentanaEmpleadoNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaEmpleadoNuevo.Designer.cs">
+      <DependentUpon>VentanaEmpleadoNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaEmpleadoVer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaEmpleadoVer.Designer.cs">
+      <DependentUpon>VentanaEmpleadoVer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaReporte.Designer.cs">
+      <DependentUpon>VentanaReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaReporteBuscarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaReporteBuscarUsuario.Designer.cs">
+      <DependentUpon>VentanaReporteBuscarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaReporteEditarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaReporteEditarUsuario.Designer.cs">
+      <DependentUpon>VentanaReporteEditarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaReporteEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaReporteEditar.Designer.cs">
+      <DependentUpon>VentanaReporteEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaReporteEliminarUsuario.cs" />
+    <Compile Include="VentanaReporteEliminar.cs" />
+    <Compile Include="VentanaReporteNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaReporteNuevo.Designer.cs">
+      <DependentUpon>VentanaReporteNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaReporteUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaReporteUsuario.Designer.cs">
+      <DependentUpon>VentanaReporteUsuario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CentroAyuda.resx">
+      <DependentUpon>CentroAyuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncidenteCentroAyuda.resx">
+      <DependentUpon>IncidenteCentroAyuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrincipalUsuario.resx">
+      <DependentUpon>PrincipalUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RegistoCentroAyuda.resx">
+      <DependentUpon>RegistoCentroAyuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaAdministrador.resx">
+      <DependentUpon>VentanaAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaAdministradorEditar.resx">
+      <DependentUpon>VentanaAdministradorEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaAdministradorNuevo.resx">
+      <DependentUpon>VentanaAdministradorNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaEmpleado.resx">
+      <DependentUpon>VentanaEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaEmpleadoEditar.resx">
+      <DependentUpon>VentanaEmpleadoEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaEmpleadoNuevo.resx">
+      <DependentUpon>VentanaEmpleadoNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaEmpleadoVer.resx">
+      <DependentUpon>VentanaEmpleadoVer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaReporte.resx">
+      <DependentUpon>VentanaReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaReporteBuscarUsuario.resx">
+      <DependentUpon>VentanaReporteBuscarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaReporteEditarUsuario.resx">
+      <DependentUpon>VentanaReporteEditarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaReporteEditar.resx">
+      <DependentUpon>VentanaReporteEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaReporteNuevo.resx">
+      <DependentUpon>VentanaReporteNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaReporteUsuario.resx">
+      <DependentUpon>VentanaReporteUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="InventarioProduccion_ClaveTemporal.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.Express.11.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2012 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
